@@ -129,9 +129,9 @@ Once your raw files are recorded and roughly edited, you point this script at yo
 
 
 
-=========================================================================================================
+============================================
 ACX Formatting Script
-=========================================================================================================
+============================================
 
 Python + ffmpeg helper to batch-process raw audiobook chapter files into ACX-compliant MP3s (RMS/peak conditioned, cleaned, padded with room tone, encoded CBR) and generate a 5-minute retail sample.
 
